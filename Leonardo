@@ -1,0 +1,16 @@
+bind_l:82
+recordings_index:1
+inventory_check:True
+only_slot_1:False
+break_blocks:False
+bind_r:0
+right_clicker_cps:10
+allow_eating:False
+slot_whitelist_r:0
+dragclick_mode:False
+color:2
+mconly:True
+save_on_exit:False
+jitter:0
+left_cps:10
+left_mode:1
