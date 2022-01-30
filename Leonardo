@@ -1,5 +1,5 @@
 bind_l:82
-recordings_index:1
+recordings_index:3
 inventory_check:True
 only_slot_1:True
 break_blocks:False
@@ -10,7 +10,7 @@ slot_whitelist_r:0
 dragclick_mode:True
 color:5
 mconly:True
-save_on_exit:False
+save_on_exit:True
 jitter:0
 left_cps:17
-left_mode:2
+left_mode:1
