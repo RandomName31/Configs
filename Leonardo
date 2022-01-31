@@ -13,4 +13,4 @@ mconly:True
 save_on_exit:True
 jitter:0
 left_cps:20
-left_mode:1
+left_mode:2
