@@ -12,5 +12,5 @@ color:13
 mconly:True
 save_on_exit:True
 jitter:0
-left_cps:20
+left_cps:15
 left_mode:1
